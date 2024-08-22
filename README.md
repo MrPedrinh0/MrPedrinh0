@@ -4,6 +4,4 @@ My name is Yoshikage Kira. I'm 33 years old. My house is in the northeast sectio
 
 sou estudante da alura
 
-tmj lek
-
 ![](https://media1.tenor.com/m/CZw1NnCEC4oAAAAd/yoshikage-kira-evil-smile.gif)
